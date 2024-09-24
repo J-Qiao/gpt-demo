@@ -19,7 +19,7 @@ const generateResponse = async () => {
         body: JSON.stringify({
             model: "gpt-3.5-turbo",
             messages: [{"role": "user", "content": input}],
-            temp: 0.7
+            temp: 0.6
         }), 
         headers: {
             'Content-Type': 'application/json'
