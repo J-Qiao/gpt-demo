@@ -1,2 +1,2 @@
 # gpt-demo
-This repository stores work processes for creating a webpage featuring VoiceOut Chatbot Demo.
+This repository stores work progress of traing a Chatbot simulating dialectical behavior therapy.
